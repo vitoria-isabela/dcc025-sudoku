@@ -102,6 +102,11 @@ Criar uma tela que escreva uma mensagem parabenizando o vencedor e ofereça a op
 
 ---
 
+### ❖ Testes Unitários
+![image](https://github.com/user-attachments/assets/e18d8891-94bf-4429-83b4-a3d40f88b019)
+
+---
+
 ### ❖ Avaliação
 A avaliação vai considerar os seguintes aspectos:  
 
